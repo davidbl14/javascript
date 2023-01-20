@@ -1,0 +1,26 @@
+h1{
+	color:black;
+	margin-top: 1.5em;
+}
+
+hr{
+	border-color:green;
+}
+
+h2{
+	color: brown;
+}
+
+body{
+	text-align: center;
+	margin-left: 25%;
+	margin-right: 25%;
+	font-family: sans-serif;
+	background-color: lightgray;
+}
+
+
+code{
+	font-size: 2rem;
+	color: gray;
+}

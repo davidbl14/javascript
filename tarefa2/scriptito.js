@@ -1,0 +1,11 @@
+var gastoHoxe = 22.22;
+var gastoOnte = 33.33;
+var gastoMañana = 44.44;
+//var total = gastoHoxe / gastoOnte / gastoMañana;
+//alert(total);
+var totalresta= gastoOnte - gastoHoxe;
+alert(totalresta);
+var totalsuma= gastoHoxe + gastoMañana;
+alert(totalsuma);
+var totalmulti= gastoMañana * gastoHoxe;
+alert(totalmulti);

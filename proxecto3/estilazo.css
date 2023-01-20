@@ -1,0 +1,26 @@
+h1{
+	color:orange;
+	text-align: center;
+}
+
+hr{
+	border-color:crimson;
+}
+
+
+h2{
+	text-align: center;
+	color:lightgreen;
+}
+
+body{
+	background-color: blueviolet;
+	margin: 2cm;
+	font-family: sans-serif;
+}
+
+
+code{
+	font-size: 2rem;
+	color: gray;
+}

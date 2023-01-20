@@ -1,0 +1,12 @@
+alert("Vou facer esta conta 3-5+2/7*10");
+alert(3-5+2/7*10);
+alert("canto é 7-2");
+alert(7-2);
+alert("canto é 8+9");
+alert(8+9);
+alert("canto é 57*321");
+alert(57*321);
+alert("canto é 12/34");
+alert(12/34);
+alert("canto é 957/421*(75-43)+87");
+alert(957/421*(75-43)+87);
